@@ -32,6 +32,6 @@ Cybersecurity Student | Devops & Backend developer | CTF Player |Algiers, Algeri
 
 Feel free to connect with me on other platforms:
 
-[![LinkedIn](https://img.shields.io/badge/-GhaziOussamaSoheib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oussama-soheib-ghazi-473b88287)](https://www.linkedin.com/in/farid-laoudi/)
+[![LinkedIn](https://img.shields.io/badge/-faridlaoudi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farid-laoudi/)](https://www.linkedin.com/in/farid-laoudi/)
 
 ⭐️ From Farid LAOUDI
